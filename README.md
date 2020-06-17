@@ -5,5 +5,5 @@ with an approximation around the largest Gaussian component.
 
 # Occam's Ghost fit
 Gaussian mixture fit minimizing the total bit requirement
-of the PDF instead of maxkmizing the likelihood
+of the PDF instead of maximizing the likelihood
 
